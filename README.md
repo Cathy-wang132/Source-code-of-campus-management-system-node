@@ -1,0 +1,2 @@
+# Source-code-of-campus-management-system-node
+这是一款基于现代Web技术开发的校园管理系统，采用Node.js作为后端框架，结合Express框架实现高效的API服务，前端使用Vue2框架并配合Element UI组件库，提供直观且现代化的用户界面。系统设计简洁易懂，功能全面，特别适合Web开发初学者进行项目开发与技术实践，帮助用户理解如何在实际项目中应用前端与后端技术。
